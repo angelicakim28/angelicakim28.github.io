@@ -1,0 +1,12 @@
+---
+title: "About This Website"
+---
+
+More about this website.
+
+This image tells you about me: I like frenchies and corgis.
+![](C:/Users/angel/Downloads/GitHub/frenchie.jpg)
+
+![](https://i.pinimg.com/originals/5b/e8/4f/5be84f684cb91a9783116073ba0d740a.jpg)
+
+
